@@ -1,0 +1,22 @@
+@font-face {
+	font-family:"Gothic Bold";
+	src: url('CGBR.ttf');
+}
+body{
+	font-family:'Gothic Bold',Arial,sans-serif;
+	background: black;
+	background-repeat: no-repeat;
+  	background-size: cover;
+  	color:white;
+}
+.form_holder{
+	font-family:'Gothic Bold',Arial,sans-serif;
+	margin:auto;
+}
+#logo {
+  display: block;
+  margin:0 auto;
+}
+.container{
+	text-align: center;
+}
